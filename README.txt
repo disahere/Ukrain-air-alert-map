@@ -7,6 +7,3 @@ Update v0.2
 - fixed previous bugs
 created by NullReferenceException
 TG:@KEP452B 
- 
-   
-
